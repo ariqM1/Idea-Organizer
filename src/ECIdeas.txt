@@ -1,0 +1,55 @@
+/* This startup idea is a dashboard that could track ALL of the online purchases that someone makes.
+   With the growth of the online shopping companies such as Amazon, being able to track the purchases
+   from all the companies would be very useful for regular online shoppers */
+PROBLEM_DESCRIPTION - BOTH
+1:
+Problem: Tracking all of your online purchases
+Target Customer: Online shoppers
+Customer Need: 7
+Known People With Problem: 16
+Target Market Size: 10000000
+Competitors: Honey
+
+/* On demand trash collection service, taking garbage whenever you need it */
+PROBLEM_DESCRIPTION - BOTH
+2:
+Problem: trash can overfilling with garbage
+Target Customer: homeowner, people living in house or apartment, schools, restaurants
+Customer Need: 6
+Known People With Problem: 6
+Target Market Size: 10000000
+Competitors: Junk Removal Companies, Trash Companies
+
+/* Tracking carbon footprint of online shopping so you are able to shop more sustainably */
+PROBLEM_DESCRIPTION - BOTH
+3:
+Problem: global warming
+Target Customer: online shoppers
+Customer Need: 6
+Known People With Problem: 10
+Target Market Size: 100000
+Competitors: Amazon?
+
+/* Companies give their employees their perks in a work from home situation,
+   helps students after current students graduating as many companies are moving
+   to work from home */
+PROBLEM_DESCRIPTION - BOTH
+4:
+Problem: Company not giving their employees their perks when working from home, such as free lunches, free snacks, etc.
+Target Customer: Companies, specifically big companies
+Customer Need: 8
+Known People With Problem: 8
+Target Market Size: 1000
+Competitors: No existing competitors, only approach company is taking is giving employees a stipend
+
+/* Website where recruiters for companies and potential candidates are able to have a more direct connection,
+   similar to LinkedIn but with a smaller base. Potentially a subscription service */
+PROBLEM_DESCRIPTION - BOTH
+5:
+Problem: Candidates and recruiters not being directly connected, auto-rejection software is ruining good job candidates for a position at a company
+Target Customer: People in job market, people looking for a job
+Customer Need: 6
+Known People With Problem: 23
+Target Market Size: 40000
+Competitors: LinkedIn, Handshake
+

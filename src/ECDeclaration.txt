@@ -1,0 +1,6 @@
+The extra credit options that I chose to do are....
+- The startup ideas textFile where I listed potential startup ideas and how they could be applied
+- Adding an Image to my GUI
+- Adding color (grey) to my GUI
+  - Is a grey background (yes I know my creativity sucks)
+- Used ObservableList and ListView, where you can see the ideas that you add to the GUI
